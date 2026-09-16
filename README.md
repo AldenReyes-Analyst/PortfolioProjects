@@ -43,5 +43,5 @@ This portfolio showcases my end-to-end analytical workflow—including data clea
 
 ### 📫 Connect & Contact
 * **Tableau Public:** [View Interactive Dashboards](https://public.tableau.com/views/CovidDashboardJan2020-Aug2026_17883809465530/Dashboard1)
-* **LinkedIn:** [Insert Your LinkedIn Profile Link Here]
+* **LinkedIn:** [linkedin.com/in/alden-reyes-481a25332]
 * **GitHub:** [@AldenReyes-Analyst](https://github.com/AldenReyes-Analyst)
