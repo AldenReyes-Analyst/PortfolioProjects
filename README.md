@@ -19,6 +19,7 @@ This portfolio showcases my end-to-end analytical workflow—including data clea
 
 | Project | Domain / Focus | Key Tech Used | Primary Deliverables |
 | :--- | :--- | :--- | :--- |
+| [**Chicago Divvy Bike-Share Analysis**](./) | Business Intelligence / Strategy | MS SQL Server, Tableau Public | [Interactive Tableau Dashboard](https://public.tableau.com/views/DataVisualizationforChicagoBikeTripData/MacroTrendsUsageHabits?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), Optimized SQL Scripts |
 | [**COVID Analysis**](./COVID%20Analysis) | Global Health Analytics | SQL Server, Tableau Public | [Interactive Tableau Dashboard](https://public.tableau.com/views/CovidDashboardJan2020-Aug2026_17883809465530/Dashboard1), Exploratory SQL Scripts |
 | [**Data Cleaning Project**](./Data%20Cleaning%20Project) | Real Estate Data Processing | MS SQL Server | Standardized dataset, Deduplicated records, SQL Scripts |
 | [**Excel Data Cleaning & Dashboard**](./Excel%20Data%20Cleaning%20and%20Dashboa...) | Customer Purchasing Behavior | Excel, PivotTables, VBA | Interactive Excel Dashboard, Cleaned Sales Data |
@@ -27,21 +28,25 @@ This portfolio showcases my end-to-end analytical workflow—including data clea
 
 ### 💡 Project Overview
 
-#### 1. [COVID-19 Global Data Analysis](./COVID%20Analysis)
-* **Objective:** Analyzed global COVID-19 trends (2020–2026), tracking infection percentages, death counts, and vaccination rates.
+#### 1. [Chicago Divvy Bike-Share Capstone Analysis](./)
+* **Objective:** Analyzed 12 months (Sept 2025–Aug 2026) of Chicago Divvy trip data (~6M+ rows) to identify behavioral differences between casual riders and annual members to drive membership conversions.
+* **Highlights:** Aggregated monthly datasets using SQL `UNION ALL`, engineered ride length & day-of-week metrics, filtered negative durations, and designed a 2-dashboard Tableau suite focusing on usage habits and fleet strategy.
+
+#### 2. [COVID-19 Global Data Analysis](./COVID%20Analysis)
+* **Objective:** Analyzed global COVID-19 trends tracking infection percentages, death counts, and vaccination rates.
 * **Highlights:** Built CTEs and joins in SQL Server for complex aggregations, paired with a published Tableau Public dashboard featuring dynamic filters.
 
-#### 2. [Nashville Housing Data Cleaning](./Data%20Cleaning%20Project)
+#### 3. [Nashville Housing Data Cleaning](./Data%20Cleaning%20Project)
 * **Objective:** Transformed raw, messy housing records into a clean, query-ready format for analysis.
 * **Highlights:** Applied SQL techniques to split multi-field string addresses, standardize binary fields, and eliminate duplicate records using `ROW_NUMBER()`.
 
-#### 3. [Excel Sales & Customer Dashboard](./Excel%20Data%20Cleaning%20and%20Dashboa...)
+#### 4. [Excel Sales & Customer Dashboard](./Excel%20Data%20Cleaning%20and%20Dashboa...)
 * **Objective:** Processed customer demographics and commute distance metrics to determine bike purchase drivers.
 * **Highlights:** Utilized Excel nested logic (`IFS`), structured PivotTables, customized PivotCharts, and implemented a macro grid crosshair.
 
 ---
 
 ### 📫 Connect & Contact
-* **Tableau Public:** [View Interactive Dashboards](https://public.tableau.com/views/CovidDashboardJan2020-Aug2026_17883809465530/Dashboard1)
-* **LinkedIn:** [www.linkedin.com/in/alden-reyes-481a25332]
+* **Tableau Public:** [View Interactive Dashboards](https://public.tableau.com/views/DataVisualizationforChicagoBikeTripData/MacroTrendsUsageHabits?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* **LinkedIn:** [www.linkedin.com/in/alden-reyes-481a25332](https://www.linkedin.com/in/alden-reyes-481a25332)
 * **GitHub:** [@AldenReyes-Analyst](https://github.com/AldenReyes-Analyst)
