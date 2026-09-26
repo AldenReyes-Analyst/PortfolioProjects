@@ -1,7 +1,7 @@
 # 📊 Tableau Public Visualizations & Interactive Dashboards
 
 ## 🔗 Interactive Dashboards
-👉 **[View Interactive Tableau Public Workbook](INSERT_YOUR_TABLEAU_PUBLIC_LINK_HERE)**
+👉 **[View Interactive Tableau Public Workbook](https://public.tableau.com/views/DataVisualizationforChicagoBikeTripData/MacroTrendsUsageHabits?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
